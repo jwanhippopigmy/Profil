@@ -3,7 +3,7 @@
 # 🦛 JWAN  
 ### The Pygmy Hippo Who Codes at Night 🌙
 
-<img src="jwan.png" width="350"/>
+<img src="Jwan.png" width="350"/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YOURUSERNAME&color=green)
 ![GitHub followers](https://img.shields.io/github/followers/YOURUSERNAME?style=social)
