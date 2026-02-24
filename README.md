@@ -127,7 +127,7 @@ Because tech should protect life 🌍
 
 ```bash
 > whoami
-JW4N
+JWAN
 
 > current_status
 Building silently...
